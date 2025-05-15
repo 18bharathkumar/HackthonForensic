@@ -4,19 +4,19 @@ import { User } from "./types";
 // Mock database
 const users: User[] = [
   {
-    address: "0x79d29913e7380f67e9b9c241bda7c169b7f961d7",
+    address: "0y79d29913e7380f67e9b9c241bda7c169b7f961d7",
     role: USER_ROLES.INDIAN_GOVT,
   },
   {
-    address: "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+    address: "0z79d29913e7380f67e9b9c241bda7c169b7f961d7",
     role: USER_ROLES.CFSL,
   },
   {
-    address: "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+    address: "0a79d29913e7380f67e9b9c241bda7c169b7f961d7",
     role: USER_ROLES.FSL,
   },
   {
-    address: "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+    address: "0x79d29913e7380f67e9b9c241bda7c169b7f961d7",
     role: USER_ROLES.POLICE_STATION,
   },
   {
