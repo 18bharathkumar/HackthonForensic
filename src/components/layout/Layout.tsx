@@ -15,7 +15,7 @@ const Layout = ({ children }: LayoutProps) => {
       <Header />
       
       <div className="flex flex-1">
-        {user && <Sidebar className="w-64 flex-shrink-0" />}
+        {/* {user && <Sidebar className="w-64 flex-shrink-0" />} */}
         <main className="flex-1 p-6 bg-gray-50">
           {isLoading ? (
             <div className="flex items-center justify-center h-full">
